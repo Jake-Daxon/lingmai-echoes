@@ -1,0 +1,171 @@
+{
+  "checks": [
+    {
+      "label": "Real WebGL renderer",
+      "pass": true
+    },
+    {
+      "label": "Three independent scene groups",
+      "pass": true
+    },
+    {
+      "label": "Island 1: correct exclusive species",
+      "pass": true
+    },
+    {
+      "label": "Island 1: three tasks complete",
+      "pass": true
+    },
+    {
+      "label": "Island 1: real 3D growth events",
+      "pass": true
+    },
+    {
+      "label": "Island 2: correct exclusive species",
+      "pass": true
+    },
+    {
+      "label": "Island 2: three tasks complete",
+      "pass": true
+    },
+    {
+      "label": "Island 2: real 3D growth events",
+      "pass": true
+    },
+    {
+      "label": "Island 3: correct exclusive species",
+      "pass": true
+    },
+    {
+      "label": "Island 3: three tasks complete",
+      "pass": true
+    },
+    {
+      "label": "Island 3: real 3D growth events",
+      "pass": true
+    },
+    {
+      "label": "Journey completion scene",
+      "pass": true
+    },
+    {
+      "label": "Download real 3D memory card",
+      "pass": true
+    },
+    {
+      "label": "Island growth preserved after switch",
+      "pass": true
+    },
+    {
+      "label": "Aftertouch timeline rewinds",
+      "pass": true
+    },
+    {
+      "label": "Pause freezes simulation",
+      "pass": true
+    },
+    {
+      "label": "Drag changes 3D orbit",
+      "pass": true
+    },
+    {
+      "label": "Wheel changes real camera distance",
+      "pass": true
+    },
+    {
+      "label": "Pure presentation shortcut",
+      "pass": true
+    },
+    {
+      "label": "Keyboard island switching in pure view",
+      "pass": true
+    },
+    {
+      "label": "Nine specimen cards",
+      "pass": true
+    },
+    {
+      "label": "Ecology to mythology mappings",
+      "pass": true
+    },
+    {
+      "label": "Audio can be enabled",
+      "pass": true
+    },
+    {
+      "label": "Reset clears all islands",
+      "pass": true
+    },
+    {
+      "label": "Island 1 reset state",
+      "pass": true
+    },
+    {
+      "label": "Island 2 reset state",
+      "pass": true
+    },
+    {
+      "label": "Island 3 reset state",
+      "pass": true
+    },
+    {
+      "label": "Manual planting creates real objects",
+      "pass": true
+    },
+    {
+      "label": "No runtime or shader errors",
+      "pass": true
+    },
+    {
+      "label": "No failed asset requests",
+      "pass": true
+    }
+  ],
+  "errors": [],
+  "network": [],
+  "performance": {
+    "fps": 241.49728315484066,
+    "stats": {
+      "time": 0.7333333333333333,
+      "corals": 6,
+      "swimmers": 560,
+      "history": 23,
+      "historyIndex": 22,
+      "drawCalls": 381,
+      "triangles": 943858,
+      "memory": {
+        "geometries": 927,
+        "textures": 2
+      },
+      "island": 1,
+      "islandCount": 3,
+      "snowflakes": 700,
+      "solidBase": {
+        "vertices": 1010,
+        "triangles": 2016,
+        "opaque": true
+      },
+      "growthHeights": [
+        0.23574528414254833,
+        0.23574528414254833,
+        0.23574528414254833,
+        0.23817712884367215,
+        0.21617927999999997,
+        0.19516247925862415
+      ],
+      "angle": 0.12703005999339265,
+      "distance": 13.901228318650727,
+      "rewinding": false,
+      "islandName": "雪岭源流岛",
+      "visibleSpecies": [
+        "monkey"
+      ],
+      "animals": 1,
+      "trees": 6,
+      "plants": 60,
+      "control": "orbit",
+      "renderer": "Three.js / Aftertouch",
+      "gpu": "WebKit WebGL"
+    }
+  }
+}

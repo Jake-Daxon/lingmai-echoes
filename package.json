@@ -1,0 +1,12 @@
+{
+  "name": "lingmai-echoes",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs",
+    "check": "node --check dist/app.js && node --check dist/island.js && node --check dist/aftertouch-world.js",
+    "test": "npm run check",
+    "prepare-pages": "node scripts/prepare-pages.mjs"
+  }
+}

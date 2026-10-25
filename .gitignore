@@ -1,0 +1,16 @@
+output/
+scripts/.font-deps/
+node_modules/
+.sites-runtime/
+*.log
+
+.openai/
+*.blend1
+scripts/github-access.py
+scripts/publish-github.py
+scripts/prepare-release.py
+scripts/refine-*.py
+scripts/three-islands.py
+scripts/polish-final.py
+scripts/finish-interactions.py
+scripts/combine-painting.py
