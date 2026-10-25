@@ -1,0 +1,17 @@
+{
+  "checks": [
+    "Completed journey opens ending",
+    "Ending restart clears progress and returns to first island",
+    "Old delayed ending does not reopen",
+    "Island 1 growth cleared",
+    "Island 2 growth cleared",
+    "Island 3 growth cleared",
+    "Growth demonstration is available again",
+    "Completed journey opens ending",
+    "Second complete journey succeeds",
+    "Restart persists across reload",
+    "New journey advances after reload",
+    "No runtime or shader errors"
+  ],
+  "errors": []
+}
